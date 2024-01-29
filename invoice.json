@@ -1,0 +1,14 @@
+{ "Rechnung": 733601475250000001,
+  "Kunde": {"Erwin Müller GmbH", "Haptstrasse 42", "60322 Frankfurt Am Main", "Ustid":"0815"},
+  "Lieferer": {"Soda AG", "Brunnenweg 42", "60322 Frankfurt Am Main", "Ustid":"4711"},
+  "Lieferung": [
+    {"Position": 1, "Produkt": "Soda", "Produkt#": "221144", "Menge": "20 t",
+      "Epreis": "3001,00 Euro", "Gpreis": "60020,00 Euro"},
+    {"Position": 2, "Produkt": "Pottasche", "Produkt#": "9976123", "Menge": "5 t",
+      "Epreis": "400,00 Euro", "Gpreis": "2000,00 Euro"},
+    {"Position": 3, "Produkt": "Ethanol", "Produkt#": "78658943", "Menge": "3,5 t",
+      "Epreis": "1200,00 Euro", "Gpreis": "4200,00 Euro"}
+  ],
+  "GpreisNetto": "66220,00 Euro", "MwSt": "19 %", "MwSt_Betrag": "12581,80 Euro", "Gpreis":"78801,80 Euro",
+  "Ustid":"4711", "Lieferart": "frei Lager", "Zahlund_bis":"2021-12-31"
+}
